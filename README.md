@@ -2,7 +2,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=2yk&color=red" alt="2yk" /></p>
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=2yk&show_icons=true&count_private=true&hide_border=true" alt="2yk" /></p>
+<!-- <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=2yk&show_icons=true&count_private=true&hide_border=true" alt="2yk" /></p> -->
 
 <!--
 - 🔭 I’m currently working on ...
